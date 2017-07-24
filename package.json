@@ -9,5 +9,8 @@
   },
   "scripts": {
     "flow": "flow"
+  },
+  "dependencies": {
+    "recompose": "^0.24.0"
   }
 }
