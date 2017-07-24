@@ -1,0 +1,13 @@
+{
+  "name": "flow-compose-error",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "cybice <istarkov@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "flow-bin": "^0.51.0"
+  },
+  "scripts": {
+    "flow": "flow"
+  }
+}
